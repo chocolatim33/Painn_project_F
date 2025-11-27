@@ -1,0 +1,8 @@
+__pycache__/
+data/processed/*
+data/raw/*
+*.out
+*.egg-info
+
+# MD17 dataset (too large for GitHub)
+data_md17/
